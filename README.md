@@ -5,6 +5,7 @@
 - HTML;
 - CSS;
 - JavaScript;
+- Site responsivo;
 - Git;
 - Github;
 - Figma;
@@ -19,5 +20,4 @@
 ## :bookmark: Layout:
 - [Acesse aqui.](https://www.figma.com/community/file/1187422022288947321) (Necessário conta no [Figma](https://www.figma.com/) para acessá-lo.)
 ## :book: Mais detalhes:
-- Projeto de conclusão do Curso Discover da Rocketseat, 
-- .
+- Projeto de conclusão do Curso Discover da Rocketseat, baseado no projeto [DevLinks](https://github.com/maykbrito/devlinks) que foi ensinado no curso.
