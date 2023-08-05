@@ -6,7 +6,7 @@
 
 :root {
     --text-color: #ffffff;
-    --bg-url: url(./src/bg-mobile.jpg);
+    --bg-url: url(./src/bg-mobile.png);
     --stroke-color: rgba(255, 255, 255, .5);
     --surface-color: rgba(255, 255, 255, .05);
     --surface-color-hover: rgba(0, 0, 0, .02);
@@ -16,7 +16,7 @@
 
 .light {
     --text-color: #000000;
-    --bg-url: url(./src/bg-mobile-light.jpg);
+    --bg-url: url(./src/bg-mobile-light.png);
     --stroke-color: rgba(0, 0, 0, .5);
     --surface-color: rgba(0, 0, 0, .05);
     --surface-color-hover: rgba(0, 0, 0, .02);
@@ -149,13 +149,13 @@ footer {
     font-size: 14px;
 }
 
-@media (min-width: 700px) {
+@media (min-width: 768px) {
     :root {
-        --bg-url: url(./src/bg-desktop.jpg);
+        --bg-url: url(./src/bg-desktop.png);
     }
 
     .light {
-        --bg-url: url(./src/bg-desktop-light.jpg);
+        --bg-url: url(./src/bg-desktop-light.png);
     }
 }
 
